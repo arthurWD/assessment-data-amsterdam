@@ -2,7 +2,7 @@
 
 [![codecov](https://codecov.io/gh/ArthurWD/assessment-data-amsterdam/graph/badge.svg?token=BRKT4NI3IA)](https://codecov.io/gh/ArthurWD/assessment-data-amsterdam)
 
-[See live demo](https://assessment-data-amsterdam.onrender.com)
+[See live demo](https://assessment-data-amsterdam.statichost.page)
 
 ## Features
 
